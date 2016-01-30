@@ -6,9 +6,9 @@ permalink: /about/
 
 CS Grad Student at The University of Texas at Arlington.
 
-### Favourate quotation
+### Favourite quotation
 
-'Give him fish and you feed him for a day. Teach him fishing and you feed him for life.' - unknown
+'Give him fish and you feed him for a day. Teach him fishing and you feed him for life.' -unknown
 
 ### Contact me
 
